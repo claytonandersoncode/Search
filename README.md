@@ -7,3 +7,5 @@ Created with Bootstrap 4 and SASS
 # Demo 
 
 ![Search Demo](demo/Search.gif)
+
+![Search Image Demo](demo/Image.gif)
