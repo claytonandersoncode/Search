@@ -1,3 +1,5 @@
 # Search
 
-A project in CS50W, re-creating the front-end of Google Search, as well as the Image Search and Advanced Search features
+CS50W Project 0: Design a front-end for Google Search, Google Image Search, and Google Advanced Search
+
+Created with Bootstrap 4 and SASS
