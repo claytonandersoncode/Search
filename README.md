@@ -9,3 +9,5 @@ Created with Bootstrap 4 and SASS
 ![Search Demo](demo/Search.gif)
 
 ![Search Image Demo](demo/Image.gif)
+
+![Advanced Search Demo](demo/Advanced.gif)
