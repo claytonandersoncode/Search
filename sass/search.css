@@ -72,11 +72,6 @@ body {
 
   .sidebar-1 {
     order: -1;
-    background: linear-gradient(270deg, #cccccc 0%, white 1%, #f7f2f1 50%);
-  }
-
-  .sidebar-2 {
-    background: linear-gradient(90deg, #cccccc 0%, white 1%, #f7f2f1 50%);
   }
 
   .extra-margin-top-lg {
