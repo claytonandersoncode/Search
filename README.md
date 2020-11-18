@@ -6,8 +6,4 @@ Created with Bootstrap 4 and SASS
 
 # Demo 
 
-![Search Demo](demo/Search.gif)
-
-![Search Image Demo](demo/Image.gif)
-
-![Advanced Search Demo](demo/Advanced.gif)
+[![Search Demo](demo/searchdemo.png)](https://www.youtube.com/watch?v=zMSUufV4sWc)
